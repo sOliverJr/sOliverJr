@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sOliverJr
+- 👋 Hi, I’m Oliver
 - 👀 I’m interested in Automatisation and making life easier.
 - 🌱 I’m currently learning Python3 and Java
