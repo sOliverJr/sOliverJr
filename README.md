@@ -1,7 +1,7 @@
 ```
 const human = {
     name: "Oli"
-    age: "20"
+    age: "21"
     occupation: "Currently studying software development in Karlsruhe, Germany"
     language: ["Python", "Java", "Javascript", "Typescript", "C++"],
     technologies: {
