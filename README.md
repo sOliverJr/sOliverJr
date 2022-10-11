@@ -5,9 +5,9 @@ const human = {
     occupation: 'Currently studying software development in Karlsruhe, Germany'
     language: ['Python', 'Java', 'Javascript', 'Typescript', 'C++'],
     technologies: {
-        tools: ['React', 'Node', 'Docker', 'Balena']
-        databases: ['mongoDB', 'Redis', 'SQL'],
-        hardware: ['RaspberriPi', 'Arduino', 'Cisco']
+        tools: ['React', 'Node', 'Docker', 'Balena', 'Zabbix', 'Linode']
+        databases: ['mongoDB', 'Redis', 'SQL', 'PostgreSQL'],
+        hardware: ['RaspberriPi', 'Arduino', 'Cisco', 'Cisco Meraki']
         misc: ['Firebase']
     },
     currentFocus: 'Building Robots to ease opertations',
