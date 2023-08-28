@@ -1,7 +1,7 @@
 ```
 const human = {
     name: 'Oliver Seider'
-    age: '21'
+    age: '22'
     occupation: 'Currently studying software development in Karlsruhe, Germany'
     language: ['Python', 'Java', 'Javascript', 'Typescript', 'C++'],
     technologies: {
